@@ -1,0 +1,13 @@
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeamsUI.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeamsUI.exe
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeamsUI.pdb
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeams_POCOs.dll
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeams_Repository.dll
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeams_POCOs.pdb
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\bin\Debug\DevTeams_Repository.pdb
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.SuggestedBindingRedirects.cache
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.CopyComplete
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeamsUI.exe
+D:\ElevenFiftyProjects\DotNetProjects\DevTeams\DevTeamsUI\obj\Debug\DevTeamsUI.pdb
